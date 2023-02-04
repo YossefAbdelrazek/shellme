@@ -1,4 +1,4 @@
-# ShellMe - Reverse Shell Generator Framework for Embedded Devices
+# ShellMe - Reverse Shell Generator Framework 
  
 
 # Installation
